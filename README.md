@@ -18,7 +18,7 @@ O sistema gerencia três categorias principais de ativos com regras distintas:
 | Código | Nome do Ativo | Carência |
 | :--- | :--- | :--- |
 | **CBDI** | CDB Liquidez Diária | Resgate imediato (D+0) |
-| **CBP3M** | CDB Pós-Fixado 90 Dias | Bloqueado por 3 meses |
+| **CBP3M** | CDB Pós-Fixado 3 meses | Bloqueado por 3 meses |
 | **CBPE1Y** | CDB Pré-Fixado 1 Ano | Bloqueado por 12 meses |
 
 ---
