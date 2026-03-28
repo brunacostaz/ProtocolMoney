@@ -123,7 +123,7 @@ public class InvestmentService {
 
         // Valida o saldo disponível para resgatar
         if ( asset.getBalance() < amount ) {
-            return "Erro 400: Saldo insuficiente para resgatar " + asset.getAssetDescription() + "Saldo disponível: R$ " + asset.getBalance();
+            return "Erro 400: Saldo insuficiente para resgatar " + asset.getAssetDescription() + " Saldo disponível: R$ " + asset.getBalance();
         }
 
         // Resgata o valor e atualiza a posição consolidada
