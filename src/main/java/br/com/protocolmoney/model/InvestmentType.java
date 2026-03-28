@@ -1,4 +1,0 @@
-package br.com.protocolmoney.model;
-
-public enum InvestmentType {
-}
