@@ -1,4 +1,4 @@
 package br.com.protocolmoney.model;
 
-public enum InvestmentType {
+public class AssetPosition {
 }
